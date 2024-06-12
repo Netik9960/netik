@@ -340,7 +340,7 @@ body{
   margin-bottom: 200px; }
   .home_banner_area .box_1620 {
     min-height: 700px;
-    border-radius: 12px;
+    border-radius: 50px;
     position: relative;
     bottom: -200px;
     background: #222222;
@@ -1231,7 +1231,8 @@ body{
     font-size:21px;
     font-weight:700px;
     font-family: Roboto Condensed', 'Lucida Sans Typewriter';
-    line-height: 27px; }
+    line-height: 27px; 
+  }
     .sample-text-area p b {
       font-weight: bold;
       color: #766dff; }
